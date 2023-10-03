@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi,+This+Is+a+refactoring+card+user+ui+REPOSITORIE;I+study+at+Makarenko,+'IPIL';I'm+from+África+Angola+Luanda;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi,+Dev;This+Is+a+refactoring+card+user+ui+REPOSITORIE;I+study+at+Makarenko,+'IPIL';I'm+from+África+Angola+Luanda;Be+Welcome!+:%29)](https://git.io/typing-svg)
 ## Don't forget *please leave your like*
 
 <div align="center">  
@@ -22,7 +22,7 @@
 
 <div align="center">
 
- ## Be happy
+ ## Be happy;
 </div>
 
 
