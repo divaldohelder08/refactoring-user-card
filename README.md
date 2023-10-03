@@ -1,13 +1,17 @@
-### Refactoring User card
+### Refactoring user card
 
-**From tailwindcss refactoring book i made a clone with**
+**From the tailwindcss refactoring book I made a clone with**
 - *shadcn/ui*
-- *radic*
-- *vite*
-- *typescript*
-- *lucide-react*
-- *tailwind css*
-- *And othrs*
+- *radical*
+- *invite*
+- *typed*
+- *lucide-reacts*
+- *favorable wind css*
+- *And others*
 
 
-## Dont`t forgot *please deixa o seu like*
+## Don't forget *please leave your like*
+
+<div align="center">
+  # Be happy 
+</div>
